@@ -1,11 +1,10 @@
 .mainFirst {
   background-color: #f5d904;
   color: #000000;
-    padding: 2rem;
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: doubleline;
-    width: 100%;
+    width: auto;
     height: auto;
 }
 .headFirst {
@@ -18,7 +17,6 @@
 }
 .bio {
     background-color: rgb(240, 215, 75);
-    padding: 1rem;
     color: #6f06f0;
    
 
